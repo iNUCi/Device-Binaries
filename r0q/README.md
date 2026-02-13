@@ -2,7 +2,7 @@
 
 - **Device:** Samsung Galaxy S22 5G
 - **Region:** International
-- **Version:** `S901EXXUCFYDA` / `BOOT.MXF.2.0-00805-WAIPIO-1`
+- **Version:** `S901EXXSCGZA2` / `BOOT.MXF.2.0-00805-WAIPIO-1`
 
 ## Patches / Fixes
 
